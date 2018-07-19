@@ -26,6 +26,15 @@ If you need to change enviroment settings, edit `docker-compose.yml` manully. An
 
 Now you can visit the wordpress installation page and custom your blog site.
 
+## ShaowsocksR installation
+Clone this repo and open folder. Run:
+
+```bash
+sh docker_shadowsocksr_installation.sh
+```
+
+Make sure the ports are opened on your host machine.
+
 ## License
 
 ```bash
