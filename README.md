@@ -11,7 +11,7 @@ cd dockerfiles
 sh docker_installation_ubuntu.sh
 ```  
 
-When this commanc finishes, you need to logout and login again.
+When this command finishes, you need to logout and login again.
 
 Enjoy yourself with docker!
 
@@ -22,7 +22,7 @@ Clone this repo, and then change dir to the `wordpress` folder. Just run:
 sh run.sh
 ```  
 
-If you need to change enviroment settings, edit `docker-compose.yml` manully. And run the command above.
+If you need to change enviroment settings, edit `docker-compose.yml` manually. And run the command above.
 
 Now you can visit the wordpress installation page and custom your blog site.
 
